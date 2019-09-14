@@ -1,6 +1,6 @@
  ## Design Week
-_Welcome to Problem Solving 3.0_
-curated from a several iterative resources that have been developed throughout the Code Academy Course.  
+_Welcome to Problem Solving 3.0_ <br>
+Curated and iterated from a several resources that have been developed throughout the Code Academy Course.  
 
 ### Menu
 * [Sessions Rules](https://gist.github.com/mghada/b8e757c05c8e5a84211325c0ba8638f6)
@@ -15,9 +15,9 @@ curated from a several iterative resources that have been developed throughout t
 ### Day 1
 
 9.10 - 9.40  |  Introducing to the internal projects week. <br>
-1. [learning outcomes](https://gist.github.com/mghada/85e85f88918bfb7721bd45f8e1ab410f)
-2. Thoughts on how do students envision this 3-week projects phase looks like? 
-3. Reminder of the structure of the coming phases of the course. 
+*  [Learning outcomes](https://gist.github.com/mghada/85e85f88918bfb7721bd45f8e1ab410f)
+*  Thoughts on how do students envision this 3-week projects phase looks like? 
+*  Reminder of the structure of the coming phases of the course. 
 
 9.40 - 10.40  |  [The Marshmellow challenge](https://gist.github.com/mghada/7de804707526c6999e257d36cf2558e9)
 
