@@ -1,4 +1,4 @@
- ## Design Week
+ # Design Week
 _Welcome to Problem Solving 3.0_ <br>
 Curated and iterated from a several resources that have been developed throughout the Code Academy Course.  
 
