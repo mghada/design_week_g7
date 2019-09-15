@@ -40,8 +40,8 @@ Mapping problems and decide on teams
 ### Day 2
 - 09:00 - 10:00 | Mapping user stories and crazy eights 
   
-- 10:00 - 11:00 | [Intro to figma/Real world demo](https://github.com/jema28/design-week-k2/blob/master/real-world-demo.md)
-- 11:00 - 12:00 | [Figma demo](https://www.figma.com/file/wiaXO6wWjwv4y6y3ygNCZA/Figma-Demo-v3.0?node-id=126%3A1395)
+- 10:00 - 11:00 | Intro to figma/Real world demo
+- 11:00 - 12:00 | Figma demo
 
 — BREAK —
 
