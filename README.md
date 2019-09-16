@@ -34,11 +34,12 @@ Mapping problems and decide on teams
 13.00 - 14.10 | [01 Discovery Phase](https://docs.google.com/presentation/d/1jQsfbdJy7ANujloXb5s6-9OnPrMcVRSy7OlhdA1Ov-g/edit#slide=id.g33e8093d24_0_13)
 
 14.15 - 15.20 | [02 Definition Phase: User Journeys and crazy eights](https://docs.google.com/presentation/d/1gDgZv8Nz8vOCAM2scyqhVXIQZUEbFiccE-QqE1-9HK0/edit?usp=sharing)
+[Frame your problem](https://hackmd.io/1PQo5WO2RniYEjIpsfXgKg?view) 
 
 <br>
 
 ### Day 2
-- 09:00 - 10:00 | Mapping user stories and crazy eights 
+- 09:00 - 10:00 | [Mapping user stories and crazy eights](https://www.appcues.com/blog/user-journey-map) 
   
 - 10:00 - 11:00 | Intro to figma/Real world demo
 - 11:00 - 12:00 | Figma demo
